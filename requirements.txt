@@ -1,0 +1,6 @@
+python-dotenv
+mcp[cli]
+pillow
+pywinauto
+google-generativeai
+pyautogui>=0.9.54

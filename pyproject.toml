@@ -1,0 +1,14 @@
+[project]
+name = "eag-v2-basic-agent-email-s4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+ "python-dotenv",
+ "mcp[cli]",
+ "pillow",
+ "pywinauto",
+ "google-generativeai",
+ "pyautogui>=0.9.54",
+]
