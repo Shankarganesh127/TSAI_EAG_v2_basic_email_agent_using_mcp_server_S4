@@ -22,9 +22,9 @@ The SMTP environment variables are already configured in the virtual environment
 
 - `SMTP_HOST=smtp.gmail.com`
 - `SMTP_PORT=587`
-- `SMTP_USER=shankar7ganesh.uk@gmail.com`
-- `SMTP_PASS=[configured]`
-- `SMTP_FROM=shankar7ganesh.uk@gmail.com`
+- `SMTP_USER=****@gmail.com`
+- `SMTP_PASS=****`
+- `SMTP_FROM=****@gmail.com`
 
 For Gmail, ensure you have:
 - 2FA enabled on your Google account
